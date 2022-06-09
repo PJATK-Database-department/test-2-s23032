@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kvainex\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kvainex\\.nuget\\packages"
+    ]
+  }
+}
