@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eaIn3OjTqfJtU6Ge7yhSq92DxK45Xt8TVx1YnExm+eDBiUgToNdSCtyF151gpKwSYNlqfHq2XgFgSqQmeC4vLQ==",
+  "dgSpecHash": "z7/oUc7xjUYiNEkyCbo83gQkPh1wcaC4plkAWB9Fqwgh/6ZkAAgPX1aAfZW7wdjHTEX4x5pzSapFIS4K4iDDKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kvainex\\Desktop\\repos\\APBDTEST2\\APBDTEST2\\APBDTEST2.csproj",
+  "projectFilePath": "C:\\Users\\Kvainex\\Desktop\\Studies\\APBD\\test-2-s23032\\APBDTEST2\\APBDTEST2\\APBDTEST2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kvainex\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Kvainex\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -5984,11 +5984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kvainex\\Desktop\\repos\\APBDTEST2\\APBDTEST2\\APBDTEST2.csproj",
+      "projectUniqueName": "C:\\Users\\Kvainex\\Desktop\\Studies\\APBD\\test-2-s23032\\APBDTEST2\\APBDTEST2\\APBDTEST2.csproj",
       "projectName": "APBDTEST2",
-      "projectPath": "C:\\Users\\Kvainex\\Desktop\\repos\\APBDTEST2\\APBDTEST2\\APBDTEST2.csproj",
+      "projectPath": "C:\\Users\\Kvainex\\Desktop\\Studies\\APBD\\test-2-s23032\\APBDTEST2\\APBDTEST2\\APBDTEST2.csproj",
       "packagesPath": "C:\\Users\\Kvainex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kvainex\\Desktop\\repos\\APBDTEST2\\APBDTEST2\\obj\\",
+      "outputPath": "C:\\Users\\Kvainex\\Desktop\\Studies\\APBD\\test-2-s23032\\APBDTEST2\\APBDTEST2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kvainex\\AppData\\Roaming\\NuGet\\NuGet.Config",
